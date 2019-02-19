@@ -24,3 +24,5 @@ TC2
 ##### Abstract:
 
 The dataset consists of Big Bazar consumers. BigBazaar runs various loyalty programs, festive offers which provide their customer more opportunities to avail discounts. Customers can use these offers or loyalty program to either avail discount or make payment.This dataset contains products transaction information and highlights the discounts used by customers in each transaction. In this problem, we've to predict clusters of customers by store location. Knowing the set of customers that behave evenly will help them target their product promotions accordingly.
+
+##### Source: [Hackerearth Challenge](https://www.hackerearth.com/problem/machine-learning/clustering-customers/)
