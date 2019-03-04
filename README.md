@@ -16,13 +16,16 @@ Data taken from the Blood Transfusion Service Center in Hsin-Chu City in Taiwan.
 ##### Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
 
 ### Clustering Methods
+
+TA2
+1. KMeans
+
 TC2
 1. DBSCAN
 
-#### Dataset: Bigbazar Customers clustering
-
+#### Dataset: Iris Data Set
 ##### Abstract:
 
-The dataset consists of Big Bazar consumers. BigBazaar runs various loyalty programs, festive offers which provide their customer more opportunities to avail discounts. Customers can use these offers or loyalty program to either avail discount or make payment.This dataset contains products transaction information and highlights the discounts used by customers in each transaction. In this problem, we've to predict clusters of customers by store location. Knowing the set of customers that behave evenly will help them target their product promotions accordingly.
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
-##### Source: [Hackerearth Challenge](https://www.hackerearth.com/problem/machine-learning/clustering-customers/)
+##### Source:[UCI Machine Learning Repository]](https://archive.ics.uci.edu/ml/datasets/iris)
